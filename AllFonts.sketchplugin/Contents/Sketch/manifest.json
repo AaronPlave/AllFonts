@@ -1,17 +1,16 @@
 {
-    "name" : "All Fonts",
-    "identifier" : "aplave.sketch.allfonts",
-    "version" : "1.0.0",
-    "description" : "Displays all system fonts on an artboard",
-    "authorEmail" : "aaronplave@gmail.com",
-    "author" : "Aaron Plave",
-    "commands" : [
-    {
-      "script" : "allFonts.js",
-      "handler" : "onRun",
-      "shortcut" : "",
-      "name" : "All Fonts",
-      "identifier" : "allfonts"
-    }
-  ]
+    "name": "All Fonts",
+    "identifier": "aplave.sketch.allfonts",
+    "version": "1.0.0",
+    "description": "Displays all system fonts on an artboard",
+    "authorEmail": "aaronplave@gmail.com",
+    "homepage": "https://github.com/AaronPlave/AllFonts",
+    "author": "Aaron Plave",
+    "commands": [{
+        "script": "allFonts.js",
+        "handler": "onRun",
+        "shortcut": "",
+        "name": "All Fonts",
+        "identifier": "allfonts"
+    }]
 }
